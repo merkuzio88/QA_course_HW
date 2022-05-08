@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hard_skills_in_the_end_of_course>
+    <skill1>Basic theory (What is testing, bug reports, documentation, types, methods, areas of testing, etc.) SDLC, STLC"</skill1>
+    <skill2>What is a client-server architecture</skill2>
+    <skill3>HTTP Methods of requests to the server</skill3>
+    <skill4>HTTP server response codes</skill4>
+    <skill5>Structures of HTTP requests and responses</skill5>
+    <skill6>What is JSON, XML. Their structure</skill6>
+    <skill7>API testing via Postman (JS, API autotests)</skill7>
+    <skill8>Removing and reading logs from an external server</skill8>
+    <skill9>Sniffing http web traffic via Charles and Fiddler</skill9>
+    <skill10>Dev Tools of web browsers (Google Chrome, FireFox)</skill10>
+    <skill11>VPN. (How it works, why you need it, how to use it, tool options)</skill11>
+    <skill12>Mobile testing</skill12>
+    <skill13>Feature iOS, Android, guidelines</skill13>
+    <skill14>Building iOS applications on XCode</skill14>
+    <skill15>Building Android applications on Android Studio</skill15>
+    <skill16>ADB (android device management)</skill16>
+    <skill17>Setting up proxy and vpn on iOS and Android</skill17>
+    <skill18>Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android</skill18>
+    <skill19>Command line (terminal) Linux (copying, creating, viewing, moving files on servers without a graphical interface)</skill19>
+    <skill20>Basics of bash scripting, automation of routine tasks on the server</skill20>
+    <skill21>Access to remote servers</skill21>
+    <skill22>SQL basics (Create, Delete, Drop, Insert Into, Select, From, Where, Join)</skill22>
+    <skill23>Postgres database (installation, configuration and use)</skill23>
+    <skill24>Non-relational database Redis (installation, configuration and use)</skill24>
+    <skill25>Load testing in Jmeter</skill25>
+    <skill26>Scrum development methodology</skill26>
+    <skill27>Python. (Learning the basics. Creating a client-server application)</skill27>
+</hard_skills_in_the_end_of_course>

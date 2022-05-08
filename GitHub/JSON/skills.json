@@ -1,0 +1,32 @@
+{
+    "hard skills in the end of course":
+    [
+        "Basic theory (What is testing, bug reports, documentation, types, methods, areas of testing, etc.) SDLC, STLC",
+        "What is a client-server architecture",
+        "HTTP Methods of requests to the server",
+        "HTTP server response codes",
+        "Structures of HTTP requests and responses",
+        "What is JSON, XML. Their structure",
+        "API testing via Postman (JS, API autotests)",
+        "Removing and reading logs from an external server",
+        "Sniffing http web traffic via Charles and Fiddler",
+        "Dev Tools of web browsers (Google Chrome, FireFox)",
+        "VPN. (How it works, why you need it, how to use it, tool options)",
+        "Mobile testing",
+        "Feature iOS, Android, guidelines",
+        "Building iOS applications on XCode",
+        "Building Android applications on Android Studio",
+        "ADB (android device management)",
+        "Setting up proxy and vpn on iOS and Android",
+        "Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android",
+        "Command line (terminal) Linux (copying, creating, viewing, moving files on servers without a graphical interface)",
+        "Basics of bash scripting, automation of routine tasks on the server",
+        "Access to remote servers",
+        "SQL basics (Create, Delete, Drop, Insert Into, Select, From, Where, Join)",
+        "Postgres database (installation, configuration and use)",
+        "Non-relational database Redis (installation, configuration and use)",
+        "Load testing in Jmeter",
+        "Scrum development methodology",
+        "Python. (Learning the basics. Creating a client-server application)"
+    ] 
+}

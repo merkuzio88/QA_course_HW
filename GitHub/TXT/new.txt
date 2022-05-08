@@ -1,0 +1,7 @@
+Name: Pavel
+Patronymic: Nikolaevich
+Surname: Kulikov
+Age: 33
+Number of cats: 1
+Number of children: 1
+Desired salary: 500$

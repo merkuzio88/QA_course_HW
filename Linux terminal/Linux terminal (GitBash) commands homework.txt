@@ -1,0 +1,36 @@
+1) Посмотреть где я === pwd
+2) Создать папку === mkdir foldername
+3) Зайти в папку === cd foldername
+4) Создать 3 папки === mkdir fldrnm1 fldrnm2 fldrnm3
+5) Зайти в любоую папку === cd fldrnm1
+6) Создать 5 файлов (3 txt, 2 json) === touch text1.txt text2.txt text3.txt jsn1.json jsn2.json
+7) Создать 3 папки === mkdir fold1 fold2 fold3
+8. Вывести список содержимого папки === ls -la
+9) + Открыть любой txt файл === vim text1.txt
+10) + написать туда что-нибудь, любой текст. === insert
+11) + сохранить и выйти. === esc :wq
+12) Выйти из папки на уровень выше === cd ..
+—
+13) Переместить любые 2 файла, которые вы создали, в любую другую папку. === mv text2.txt text3.txt ~/courses/foldername
+14) скопировать любые 2 файла, которые вы создали, в любую другую папку. === cp jsn1.json jsn2.json ~/courses/foldername/fldrnm2
+15) Найти файл по имени === find . -name "text1.txt"
+16) просмотреть содержимое в реальном времени (команда grep) изучите как она работает. === tail -f text1.txt
+17) вывести несколько первых строк из текстового файла === head text1.txt
+18) вывести несколько последних строк из текстового файла === tail text1.txt
+19) просмотреть содержимое длинного файла (команда less) изучите как она работает. === less text1.txt
+20) вывести дату и время === date
+
+Задание *
+1) Отправить http запрос на сервер.
+http://162.55.220.72:5005/terminal-hw-request === curl http://162.55.220.72:5005/terminal-hw-request
+2) Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13 ===
+
+#!/bin/bash
+cd foldername
+mkdir fldrnm4 fldrnm5 fldrnm6
+cd fldrnm4
+touch text4.txt text5.txt text6.txt jsn3.json jsn4.json
+mkdir fold4 fold5 fold6
+ls -la
+mv text5.txt text6.txt ~/courses/foldername
+

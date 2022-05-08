@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+   <name>Pavel</name>
+   <patronymic>Nikolaevich</patronymic>
+   <surname>Kulikov</surname>
+   <age>33</age>
+   <number_of_cats>1</number_of_cats>
+   <number_of_children>1</number_of_children>
+   <desired_salary>500$</desired_salary>
+</person>

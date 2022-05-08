@@ -1,0 +1,5 @@
+Favorite movie: "Annette"
+Favorite series: "Friends"
+Favorite food: chips
+Favorite season: summer
+Country I would like to visit: Switzerland
